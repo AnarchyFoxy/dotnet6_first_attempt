@@ -1,0 +1,15 @@
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/bin/Debug/net6.0/Liczby
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/bin/Debug/net6.0/Liczby.deps.json
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/bin/Debug/net6.0/Liczby.runtimeconfig.json
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/bin/Debug/net6.0/Liczby.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/bin/Debug/net6.0/Liczby.pdb
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.csproj.AssemblyReference.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.AssemblyInfoInputs.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.AssemblyInfo.cs
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.csproj.CoreCompileInputs.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/refint/Liczby.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.pdb
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/Liczby.genruntimeconfig.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Liczby/obj/Debug/net6.0/ref/Liczby.dll

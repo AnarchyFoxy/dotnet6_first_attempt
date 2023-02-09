@@ -1,0 +1,15 @@
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/bin/Debug/net6.0/Slownictwo
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/bin/Debug/net6.0/Slownictwo.deps.json
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/bin/Debug/net6.0/Slownictwo.runtimeconfig.json
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/bin/Debug/net6.0/Slownictwo.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/bin/Debug/net6.0/Slownictwo.pdb
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.csproj.AssemblyReference.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.AssemblyInfoInputs.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.AssemblyInfo.cs
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.csproj.CoreCompileInputs.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/refint/Slownictwo.dll
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.pdb
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/Slownictwo.genruntimeconfig.cache
+/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/Debug/net6.0/ref/Slownictwo.dll
