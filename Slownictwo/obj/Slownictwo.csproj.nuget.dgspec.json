@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/Slownictwo.csproj": {}
+    "/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Slownictwo/Slownictwo.csproj": {}
   },
   "projects": {
-    "/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/Slownictwo.csproj": {
+    "/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Slownictwo/Slownictwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/Slownictwo.csproj",
+        "projectUniqueName": "/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Slownictwo/Slownictwo.csproj",
         "projectName": "Slownictwo",
-        "projectPath": "/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/Slownictwo.csproj",
-        "packagesPath": "/Users/darthrevan/.nuget/packages/",
-        "outputPath": "/Users/darthrevan/IDE/C#/Nauka/Price/R02/Rozdzial2/Slownictwo/obj/",
+        "projectPath": "/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Slownictwo/Slownictwo.csproj",
+        "packagesPath": "/Users/refrasta/.nuget/packages/",
+        "outputPath": "/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Slownictwo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/darthrevan/.nuget/NuGet/NuGet.Config"
+          "/Users/refrasta/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
