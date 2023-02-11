@@ -1,5 +1,5 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A7D42171-7638-423B-84E9-80C965FF4663}|Default">
-  <MonoDevelop.Ide.ItemProperties.Formatowanie FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{05F8725C-6CA8-4404-A554-682211AECD6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Formatowanie PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.Zmienne PreferredExecutionTarget="MonoDevelop.Default" />
@@ -28,4 +28,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Slownictwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Argumenty FirstBuild="True" />
 </Properties>

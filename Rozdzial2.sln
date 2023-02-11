@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zmienne", "Zmienne\Zmienne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatowanie", "Formatowanie\Formatowanie.csproj", "{05F8725C-6CA8-4404-A554-682211AECD6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argumenty", "Argumenty\Argumenty.csproj", "{CD5273D0-4195-4FF9-9BF7-182374280D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{05F8725C-6CA8-4404-A554-682211AECD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F8725C-6CA8-4404-A554-682211AECD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F8725C-6CA8-4404-A554-682211AECD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5273D0-4195-4FF9-9BF7-182374280D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5273D0-4195-4FF9-9BF7-182374280D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5273D0-4195-4FF9-9BF7-182374280D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5273D0-4195-4FF9-9BF7-182374280D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
