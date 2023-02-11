@@ -1,0 +1,15 @@
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/bin/Debug/net6.0/Formatowanie
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/bin/Debug/net6.0/Formatowanie.deps.json
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/bin/Debug/net6.0/Formatowanie.runtimeconfig.json
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/bin/Debug/net6.0/Formatowanie.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/bin/Debug/net6.0/Formatowanie.pdb
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.csproj.AssemblyReference.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.AssemblyInfoInputs.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.AssemblyInfo.cs
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.csproj.CoreCompileInputs.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/refint/Formatowanie.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.pdb
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/Formatowanie.genruntimeconfig.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Formatowanie/obj/Debug/net6.0/ref/Formatowanie.dll
