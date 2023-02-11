@@ -1,25 +1,24 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{05F8725C-6CA8-4404-A554-682211AECD6A}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{CD5273D0-4195-4FF9-9BF7-182374280D4D}|Default">
   <MonoDevelop.Ide.ItemProperties.Formatowanie PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Zmienne PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Liczby PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Zmienne/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Argumenty/Program.cs">
     <Files>
-      <File FileName="Liczby/Program.cs" Line="53" Column="1" />
-      <File FileName="Zmienne/Program.cs" Line="22" Column="4" />
-      <File FileName="Slownictwo/Program.cs" Line="1" Column="1" />
+      <File FileName="Formatowanie/Program.cs" Line="88" Column="1" />
+      <File FileName="Argumenty/Program.cs" Line="5" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="Rozdzial2" expanded="True">
-            <Node name="Liczby" expanded="True" />
-            <Node name="Slownictwo" expanded="True" />
-            <Node name="Zmienne" expanded="True">
+            <Node name="Argumenty" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -28,5 +27,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Slownictwo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Argumenty FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Argumenty PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
