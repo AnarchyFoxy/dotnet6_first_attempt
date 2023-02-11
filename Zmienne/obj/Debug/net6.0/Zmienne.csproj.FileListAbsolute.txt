@@ -1,0 +1,15 @@
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.csproj.AssemblyReference.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.AssemblyInfoInputs.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.AssemblyInfo.cs
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.csproj.CoreCompileInputs.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/bin/Debug/net6.0/Zmienne
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/bin/Debug/net6.0/Zmienne.deps.json
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/bin/Debug/net6.0/Zmienne.runtimeconfig.json
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/bin/Debug/net6.0/Zmienne.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/bin/Debug/net6.0/Zmienne.pdb
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/refint/Zmienne.dll
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.pdb
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/Zmienne.genruntimeconfig.cache
+/Users/refrasta/IDE/C#/Nauka/Price/dotnet6_first_attempt/Zmienne/obj/Debug/net6.0/ref/Zmienne.dll

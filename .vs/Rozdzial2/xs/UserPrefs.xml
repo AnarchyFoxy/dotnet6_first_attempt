@@ -1,21 +1,20 @@
-﻿<Properties StartupConfiguration="{715E6C18-563E-411B-AFE7-162B2137A3D5}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.Liczby PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Slownictwo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{A7D42171-7638-423B-84E9-80C965FF4663}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Liczby/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zmienne/Program.cs">
     <Files>
-      <File FileName="Liczby/Program.cs" Line="26" Column="2" />
+      <File FileName="Liczby/Program.cs" Line="53" Column="1" />
+      <File FileName="Zmienne/Program.cs" Line="22" Column="4" />
+      <File FileName="Slownictwo/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="Rozdzial2" expanded="True">
-            <Node name="Liczby" expanded="True">
+            <Node name="Liczby" expanded="True" />
+            <Node name="Slownictwo" expanded="True" />
+            <Node name="Zmienne" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -23,5 +22,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Slownictwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Liczby PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Zmienne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
